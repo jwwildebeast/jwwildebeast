@@ -1,37 +1,45 @@
-### Hi, I'm John W. Williams 👋
+## John W. Williams
 
-Ph.D. candidate and Graduate Research Assistant in **Industrial & Systems Engineering** at the **University of Tennessee, Knoxville**, working in the [Applied Systems Laboratory](https://asl.utk.edu).
+**Ph.D. Candidate, Industrial & Systems Engineering · University of Tennessee, Knoxville**<br>
+Graduate Research Assistant, [Applied Systems Laboratory](https://asl.utk.edu)
 
-I build **trustworthy AI for complex, human-centered systems**, working where human factors, artificial intelligence and systems engineering meet.
+I design and evaluate trustworthy AI for complex, human-centered systems. My work combines large language model agents, digital twins and simulation to support expert decision-making in industrial and sociotechnical settings.
 
-[Portfolio](https://jwwildebeast.github.io) · [ORCID](https://orcid.org/0009-0005-8169-209X) · [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ) · [LinkedIn](https://www.linkedin.com/in/johnwwilli) · [CV](https://jwwildebeast.github.io/files/John_Williams_CV.pdf)
+[Portfolio](https://jwwildebeast.github.io) | [ORCID](https://orcid.org/0009-0005-8169-209X) | [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ) | [LinkedIn](https://www.linkedin.com/in/johnwwilli) | [CV](https://jwwildebeast.github.io/files/John_Williams_CV.pdf)
 
 ---
 
-#### 🔬 Research focus
+### Research Areas
 
-- **LLM agents & multi-agent systems:** planning, reasoning and decision support in industrial settings
-- **Human-AI collaboration:** how AI assistants shape trust, team dynamics and situational awareness
-- **Digital twins & predictive maintenance:** ML and LLMs for monitoring, diagnosing and maintaining industrial equipment
-- **Simulation & optimization:** agent-based and computational models of sociotechnical systems
+| Area | Focus |
+|---|---|
+| **LLM Agents & Multi-Agent Systems** | Planning, reasoning and decision support for industrial operations |
+| **Human-AI Teaming** | Effects of AI assistants on trust, team performance and situational awareness |
+| **Digital Twins & Predictive Maintenance** | Machine learning and LLMs for equipment monitoring, fault diagnosis and maintenance planning |
+| **Simulation & Optimization** | Agent-based and neuro-symbolic models of sociotechnical systems |
 
-#### 🚀 Highlights
+### Selected Work
 
-- Led development of an **XR digital twin for industrial motor predictive maintenance**. UT has copyrighted it and is licensing it to industry partners. ([details](https://jwwildebeast.github.io/portfolio/xr-digital-twin/))
-- Demonstrated digital twin and AI systems at **MARCON 2026** and the **XR Symposium (ORTECC)** in 2025 and 2026
+**XR Digital Twin for Industrial Motor Predictive Maintenance.** Led development of an extended-reality digital twin that integrates live sensor data, machine learning fault diagnosis and LLM-generated work instructions. The software is copyrighted by the University of Tennessee and offered for industry licensing. Demonstrated at MARCON 2026 and the XR Symposium (ORTECC), 2025 and 2026. [Project details](https://jwwildebeast.github.io/portfolio/xr-digital-twin/)
 
-#### 📄 Selected publications
+### Selected Publications
 
-- **Williams, J., et al. (2026).** Cross-domain digital twin architecture for predictive maintenance via machine learning and Large Language Models. *Computers & Industrial Engineering.* [doi:10.1016/j.cie.2026.111914](https://doi.org/10.1016/j.cie.2026.111914)
-- **Li, X., Williams, J., et al. (2025).** A machine learning approach to predictive maintenance: Remaining useful life and motor fault analysis. *Computers & Industrial Engineering.* [doi:10.1016/j.cie.2025.111222](https://doi.org/10.1016/j.cie.2025.111222)
-- **Wilhoit, E., Williams, J., et al. (2026).** A Neuro-Symbolic Agent-Based Model for OUD Recovery Calibrated with Real-World Data and Spatial Treatment Access. *Winter Simulation Conference* (accepted).
+- **Williams, J.**, et al. (2026). Cross-domain digital twin architecture for predictive maintenance via machine learning and large language models. *Computers & Industrial Engineering*. [doi:10.1016/j.cie.2026.111914](https://doi.org/10.1016/j.cie.2026.111914)
+- Li, X., **Williams, J.**, et al. (2025). A machine learning approach to predictive maintenance: Remaining useful life and motor fault analysis. *Computers & Industrial Engineering*. [doi:10.1016/j.cie.2025.111222](https://doi.org/10.1016/j.cie.2025.111222)
+- Wilhoit, E., **Williams, J.**, et al. (2026). A neuro-symbolic agent-based model for OUD recovery calibrated with real-world data and spatial treatment access. *Proceedings of the Winter Simulation Conference* (accepted).
 
-[All publications →](https://jwwildebeast.github.io/publications/)
+[Complete publication list](https://jwwildebeast.github.io/publications/)
 
-#### 🛠️ Tools I work with
+### Technical Expertise
 
-Python · PyTorch / scikit-learn · LLM tooling (agents, RAG, LoRA fine-tuning) · Unity / C# · Simio · Jupyter · AWS / MQTT
+**Machine Learning & AI:** Python, PyTorch, scikit-learn, LLM agents, retrieval-augmented generation, LoRA fine-tuning<br>
+**Simulation & Systems:** Simio, agent-based modeling, design of experiments, optimization<br>
+**Digital Twins & XR:** Unity, C#, industrial sensor integration, MQTT, AWS
 
-#### 🎓 Background
+### Education
 
-M.S. Industrial & Systems Engineering, University of Tennessee · B.S. Computer Science (Software Engineering), Colorado Technical University, *summa cum laude* · Member of ACM, INFORMS, IISE and Upsilon Pi Epsilon
+- **Ph.D.**, Industrial & Systems Engineering, University of Tennessee, Knoxville (in progress)
+- **M.S.**, Industrial & Systems Engineering, University of Tennessee, Knoxville
+- **B.S.**, Computer Science (Software Engineering), Colorado Technical University, *summa cum laude*
+
+**Professional Memberships:** ACM · INFORMS · IISE · Upsilon Pi Epsilon
