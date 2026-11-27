@@ -95,6 +95,13 @@ I work at the intersection of **human factors**, **artificial intelligence** and
       <sub>Wilhoit, E., <b>Williams, J.</b>, et al. · <i>Proceedings of the Winter Simulation Conference</i> (accepted)</sub>
     </td>
   </tr>
+  <tr>
+    <td valign="top"><img src="https://img.shields.io/badge/WSC-2024-38bdf8?style=flat-square" alt="Winter Simulation Conference 2024" /></td>
+    <td>
+      <strong>Real-time predictive maintenance: A digital twin approach with LLM-generated work instructions</strong><br>
+      <sub><b>Williams, J.</b> · <i>Winter Simulation Conference</i> (poster presentation)</sub>
+    </td>
+  </tr>
 </table>
 
 <a href="https://jwwildebeast.github.io/publications/"><img src="https://img.shields.io/badge/View_all_publications-0f172a?style=for-the-badge" alt="View all publications" /></a>
@@ -107,7 +114,9 @@ I work at the intersection of **human factors**, **artificial intelligence** and
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
       <img src="https://img.shields.io/badge/LLM_Agents-0f172a?style=flat-square" alt="LLM agents" />
       <img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square" alt="Retrieval-augmented generation" />
@@ -126,8 +135,11 @@ I work at the intersection of **human factors**, **artificial intelligence** and
   <tr>
     <td><strong>Digital Twins & XR</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine 5" />
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
     </td>
