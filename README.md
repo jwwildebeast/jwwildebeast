@@ -140,6 +140,7 @@ I work at the intersection of **human factors**, **artificial intelligence** and
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/OPC_UA-0A4D8C?style=flat-square" alt="OPC UA" />
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
     </td>
